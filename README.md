@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm r3nm4rss 👋</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">Also know as 57xv</h3>
 
 <p align="center">
   <a href="https://github.com/57xv?tab=followers">
@@ -11,11 +11,8 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently working on **Golang project** and expanding my knowledge of **cloud technologies**  
-- 🚀 I love solving complex problems using **Javascript** and exploring the latest **.NET** frameworks  
-- 💬 Ask me about anything related to **.NET**, **C#**, or **API development**  
-- 📫 How to reach me: [Email](mailto:r3nm4rsss@proton.me) | Discord: **57xv**
-- ⚡ Fun fact: I can spend hours fine-tuning my code until it’s pixel-perfect  
+- 🌱 I’m currently working on **OmesFN & Reno Hub** and expanding my knowledge of **cloud technologies**  
+- 📫 How to reach me: [Website](https://frozi.lol/r) | Discord: **57xv_**
 
 ---
 
@@ -35,7 +32,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=57xv&show_icons=true&theme=highcontrast" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=57xv&layout=compact&theme=highcontrast" alt="Top Languages" height="180" />
 </p>
 
@@ -47,7 +43,7 @@
 
 ### 🚀 My Latest Projects
 
-- [OmesFN](https://discord.gg/qxqFGNUFZV)
+- [OmesFN](https://frozi.lol/r)
 
 ---
 
