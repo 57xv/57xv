@@ -11,7 +11,7 @@
 ---
 
 ### 📊 GitHub Stats
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=57xv&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/57xv)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=57xv&theme=tokyonight" alt="mystreak"/>
 
 ---
